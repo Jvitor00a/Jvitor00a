@@ -18,7 +18,7 @@ Grande admirador de tecnologias e suas evoluções
 <div>
   <h2>Entre em contato!</h2>
   
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-vieira) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:joaovitoralvesvieira@gmail.com)
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-vieira-8a853b227/) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:joaovitoralvesvieira@gmail.com)
   
   
 </div>
