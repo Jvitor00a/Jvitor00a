@@ -1,9 +1,9 @@
 
-### Olá! Me chamo João Vitor!
+### Hello Word! Me chamo João Vitor!
 
 Sou Desenvolvedor BackEnd e futuro CyberSec
 <br>
-grande admirador de tecnologias e suas evoluções 
+Grande admirador de tecnologias e suas evoluções 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvfsccp&layout=compact)
@@ -18,4 +18,7 @@ grande admirador de tecnologias e suas evoluções
 <div>
   <h2>Entre em contato!</h2>
   
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)](
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-vieira) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:joaovitoralvesvieira@gmail.com)
+  
+  
+</div>
