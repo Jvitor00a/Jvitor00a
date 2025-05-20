@@ -5,8 +5,10 @@
 🚀 Sobre Mim
 Desenvolvedor apaixonado por tecnologia e soluções inovadoras. Trabalho criando aplicações que transformam ideias em realidade, sempre buscando o melhor código e as melhores práticas.
 
-🔭 Atualmente estou trabalhando em [nome do seu projeto atual]
+🔭 Atualmente estou trabalhando na CkLabsDevelopment.
+
 🌱 Estou me aprimorando em .NET e Node.js
+
 📫 Como me encontrar:joaovitoralvesvieira@gmail.com
 
 
