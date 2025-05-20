@@ -1,15 +1,12 @@
 👋 Olá, mundo!
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jvitor00a&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
 </div>
 🚀 Sobre Mim
 Desenvolvedor apaixonado por tecnologia e soluções inovadoras. Trabalho criando aplicações que transformam ideias em realidade, sempre buscando o melhor código e as melhores práticas.
 
-🔭 Atualmente estou trabalhando em [nome do seu projeto atual]
-🌱 Estou me aprimorando em [tecnologias que está estudando]
-💬 Pergunte-me sobre [suas especialidades]
-📫 Como me encontrar: [seu email]
-⚡ Fato divertido: [algo interessante sobre você]
+🔭 Atualmente estou trabalhando na CkLabs Development
+🌱 Estou me aprimorando em .NET e Node.Js
 
 🛠️ Tecnologias & Ferramentas
 <div style="display: inline_block">
