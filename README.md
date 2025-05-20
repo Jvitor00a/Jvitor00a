@@ -1,7 +1,6 @@
 👋 Olá, mundo!
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jvitor00a&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvitor00a&layout=compact)
+
 🚀 Sobre Mim
 Desenvolvedor apaixonado por tecnologia e soluções inovadoras. Trabalho criando aplicações que transformam ideias em realidade, sempre buscando o melhor código e as melhores práticas.
 
